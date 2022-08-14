@@ -1,0 +1,32 @@
+This project contains few different aproaches of adding style to the components
+
+
+And then we'll dive into two popular approaches
+
+for scoping styles to components,
+
+so for setting up styles
+
+such that they only affect the component
+
+and are not added as global styles.
+
+We'll have a look at STYLED COMPONENTS,
+
+which is a third-party library, a very popular one,
+
+which allows us to set up pre-styled components
+
+with their own scoped styles.
+
+And we'll have a look at a concept called CSS MODULES.
+
+And you will learn what these different approaches
+
+are all about, how you do work with them,
+
+and how you could add them to your next project.
+
+Now, to dive into styling, we need a demo project,
+
+and to mix things up I got a brand new project here.
